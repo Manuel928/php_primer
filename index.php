@@ -16,4 +16,8 @@ echo "<h1>My name is: $name </h1>";
 echo "<h1>My name is:" . $name . "</h1>";
 ?>
 
+<button type="button" class="btn btn-dark">Dark</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-success">Success</button>
+
 <?php require 'includes/footer.php' ?>
